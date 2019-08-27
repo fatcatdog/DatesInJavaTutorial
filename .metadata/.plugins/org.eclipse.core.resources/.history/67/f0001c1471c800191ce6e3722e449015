@@ -1,0 +1,10 @@
+package finished;
+
+public class OurMainClass {
+	
+	public static void Main(String[] args) {
+		System.out.println("Project works :)");
+		
+	}
+
+}

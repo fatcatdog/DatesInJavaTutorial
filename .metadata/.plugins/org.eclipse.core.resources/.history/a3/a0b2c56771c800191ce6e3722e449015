@@ -1,0 +1,11 @@
+package finished;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		System.out.println("Lets print today's date object without any type of manipulation: ");
+		
+		
+	}
+
+}

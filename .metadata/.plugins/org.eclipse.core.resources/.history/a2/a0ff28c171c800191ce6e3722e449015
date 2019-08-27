@@ -1,0 +1,15 @@
+package finished;
+
+import java.util.Date;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		System.out.println("Lets print today's date object without any type of manipulation: ");
+		Date date = new Date(); 
+		
+		System.out.println("Our date is: " + date);
+		
+	}
+
+}

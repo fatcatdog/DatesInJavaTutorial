@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/jacob/Desktop/dateTutorial/.metadata/.plugins/org.eclipse.jdt.core
+1362720013.index
